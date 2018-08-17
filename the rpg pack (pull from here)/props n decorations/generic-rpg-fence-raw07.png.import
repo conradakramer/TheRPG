@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-fence-raw07.png-0ef06cef34183a466410f1b2d6b8608d.stex"
+path="res://.import/generic-rpg-fence-raw07.png-9a5f5fe147daf062da609249db7da673.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-fence-raw07.png"
-dest_files=[ "res://.import/generic-rpg-fence-raw07.png-0ef06cef34183a466410f1b2d6b8608d.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-fence-raw07.png"
+dest_files=[ "res://.import/generic-rpg-fence-raw07.png-9a5f5fe147daf062da609249db7da673.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-ui-text-box.png-87060c5364b2ce5992a4be62f77677c4.stex"
+path="res://.import/generic-rpg-ui-text-box.png-f21ac56e5e2823e1337cbec1176c1ff9.stex"
 
 [deps]
 
-source_file="res://rpg-pack/UI/generic-rpg-ui-text-box.png"
-dest_files=[ "res://.import/generic-rpg-ui-text-box.png-87060c5364b2ce5992a4be62f77677c4.stex" ]
+source_file="res://the rpg pack (pull from here)/UI/generic-rpg-ui-text-box.png"
+dest_files=[ "res://.import/generic-rpg-ui-text-box.png-f21ac56e5e2823e1337cbec1176c1ff9.stex" ]
 
 [params]
 

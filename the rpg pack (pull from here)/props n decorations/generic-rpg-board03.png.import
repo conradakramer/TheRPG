@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-board03.png-fe3521211291bb4692d110fd440208d8.stex"
+path="res://.import/generic-rpg-board03.png-649e6873f913088b075d28e5782d1fa4.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-board03.png"
-dest_files=[ "res://.import/generic-rpg-board03.png-fe3521211291bb4692d110fd440208d8.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-board03.png"
+dest_files=[ "res://.import/generic-rpg-board03.png-649e6873f913088b075d28e5782d1fa4.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-crate01.png-6e08d00193645fb17a11efe9d7cd35a6.stex"
+path="res://.import/generic-rpg-crate01.png-ddd15fc79fc8ffc531328cee06098d99.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-crate01.png"
-dest_files=[ "res://.import/generic-rpg-crate01.png-6e08d00193645fb17a11efe9d7cd35a6.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-crate01.png"
+dest_files=[ "res://.import/generic-rpg-crate01.png-ddd15fc79fc8ffc531328cee06098d99.stex" ]
 
 [params]
 

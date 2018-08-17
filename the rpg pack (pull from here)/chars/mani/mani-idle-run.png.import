@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mani-idle-run.png-8690a4952eab4556d27a3d13d218bec8.stex"
+path="res://.import/mani-idle-run.png-43e0ec647149e6fa1077562bf29735b5.stex"
 
 [deps]
 
-source_file="res://rpg-pack/chars/mani/mani-idle-run.png"
-dest_files=[ "res://.import/mani-idle-run.png-8690a4952eab4556d27a3d13d218bec8.stex" ]
+source_file="res://the rpg pack (pull from here)/chars/mani/mani-idle-run.png"
+dest_files=[ "res://.import/mani-idle-run.png-43e0ec647149e6fa1077562bf29735b5.stex" ]
 
 [params]
 

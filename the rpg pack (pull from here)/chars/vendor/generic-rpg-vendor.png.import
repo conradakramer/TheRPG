@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-vendor.png-7bb3242e4cdce4c1c04a2c1781b0f9dc.stex"
+path="res://.import/generic-rpg-vendor.png-56592d11f665874218776e3a5467871b.stex"
 
 [deps]
 
-source_file="res://rpg-pack/chars/vendor/generic-rpg-vendor.png"
-dest_files=[ "res://.import/generic-rpg-vendor.png-7bb3242e4cdce4c1c04a2c1781b0f9dc.stex" ]
+source_file="res://the rpg pack (pull from here)/chars/vendor/generic-rpg-vendor.png"
+dest_files=[ "res://.import/generic-rpg-vendor.png-56592d11f665874218776e3a5467871b.stex" ]
 
 [params]
 

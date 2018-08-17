@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-grass01.png-bad65540f9341e255f983cfbcc5615a3.stex"
+path="res://.import/generic-rpg-grass01.png-c9a026c9497186f50599c56d0c570c2e.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-grass01.png"
-dest_files=[ "res://.import/generic-rpg-grass01.png-bad65540f9341e255f983cfbcc5615a3.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-grass01.png"
+dest_files=[ "res://.import/generic-rpg-grass01.png-c9a026c9497186f50599c56d0c570c2e.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/teal_pants_male.png-c0fb5b23741d92535142c0fdeac562a1.stex"
+path="res://.import/teal_pants_male.png-0c7e1568154305d1a2aa996d8dc57966.stex"
 
 [deps]
 
-source_file="res://rpg-pack/chars/teal_pants_male.png"
-dest_files=[ "res://.import/teal_pants_male.png-c0fb5b23741d92535142c0fdeac562a1.stex" ]
+source_file="res://the rpg pack (pull from here)/chars/teal_pants_male.png"
+dest_files=[ "res://.import/teal_pants_male.png-0c7e1568154305d1a2aa996d8dc57966.stex" ]
 
 [params]
 

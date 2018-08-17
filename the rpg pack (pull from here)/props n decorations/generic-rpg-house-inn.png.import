@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-house-inn.png-bddb8b1034afe0d35085eb92dbb60b27.stex"
+path="res://.import/generic-rpg-house-inn.png-e9d4b3d4564eb657169f44a21ec6f428.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-house-inn.png"
-dest_files=[ "res://.import/generic-rpg-house-inn.png-bddb8b1034afe0d35085eb92dbb60b27.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-house-inn.png"
+dest_files=[ "res://.import/generic-rpg-house-inn.png-e9d4b3d4564eb657169f44a21ec6f428.stex" ]
 
 [params]
 

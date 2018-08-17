@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-barrel02.png-8e411593466b26f4fa09c5652f83bf20.stex"
+path="res://.import/generic-rpg-barrel02.png-e6dc88c117c45cb86f9b9d2fd1228c4c.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-barrel02.png"
-dest_files=[ "res://.import/generic-rpg-barrel02.png-8e411593466b26f4fa09c5652f83bf20.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-barrel02.png"
+dest_files=[ "res://.import/generic-rpg-barrel02.png-e6dc88c117c45cb86f9b9d2fd1228c4c.stex" ]
 
 [params]
 

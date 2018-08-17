@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-tile-waterfall01.png-236a3fe6e53394d960c17f2f25914d30.stex"
+path="res://.import/generic-rpg-tile-waterfall01.png-7bebb665cf57d013605dcdd598178dc9.stex"
 
 [deps]
 
-source_file="res://rpg-pack/tiles/generic-rpg-tile-waterfall01.png"
-dest_files=[ "res://.import/generic-rpg-tile-waterfall01.png-236a3fe6e53394d960c17f2f25914d30.stex" ]
+source_file="res://the rpg pack (pull from here)/tiles/generic-rpg-tile-waterfall01.png"
+dest_files=[ "res://.import/generic-rpg-tile-waterfall01.png-7bebb665cf57d013605dcdd598178dc9.stex" ]
 
 [params]
 

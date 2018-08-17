@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-flower02.png-3cdaeb192df2dd62207af3fa76c5f041.stex"
+path="res://.import/generic-rpg-flower02.png-6a27046f2edeabfdb3f9dd872c6f1205.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-flower02.png"
-dest_files=[ "res://.import/generic-rpg-flower02.png-3cdaeb192df2dd62207af3fa76c5f041.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-flower02.png"
+dest_files=[ "res://.import/generic-rpg-flower02.png-6a27046f2edeabfdb3f9dd872c6f1205.stex" ]
 
 [params]
 

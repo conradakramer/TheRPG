@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-ui-inventario01.png-56a9eaf689ccb15b52919c8d9898fa49.stex"
+path="res://.import/generic-rpg-ui-inventario01.png-ab935aec34e0016fd67f56fcffbe74a6.stex"
 
 [deps]
 
-source_file="res://rpg-pack/UI/generic-rpg-ui-inventario01.png"
-dest_files=[ "res://.import/generic-rpg-ui-inventario01.png-56a9eaf689ccb15b52919c8d9898fa49.stex" ]
+source_file="res://the rpg pack (pull from here)/UI/generic-rpg-ui-inventario01.png"
+dest_files=[ "res://.import/generic-rpg-ui-inventario01.png-ab935aec34e0016fd67f56fcffbe74a6.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-treasure-closed.png-5ee85dc834d46832ecd5ede2a8b6ecd7.stex"
+path="res://.import/generic-rpg-treasure-closed.png-8c334ef999c094044039a8d19fc0c320.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-treasure-closed.png"
-dest_files=[ "res://.import/generic-rpg-treasure-closed.png-5ee85dc834d46832ecd5ede2a8b6ecd7.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-treasure-closed.png"
+dest_files=[ "res://.import/generic-rpg-treasure-closed.png-8c334ef999c094044039a8d19fc0c320.stex" ]
 
 [params]
 
