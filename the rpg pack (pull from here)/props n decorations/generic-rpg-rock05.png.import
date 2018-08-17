@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-rock05.png-e0ee077e1d39af5b66af18260ca6aa2b.stex"
+path="res://.import/generic-rpg-rock05.png-9fbd6cab173f9285eee453fa16bbef16.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-rock05.png"
-dest_files=[ "res://.import/generic-rpg-rock05.png-e0ee077e1d39af5b66af18260ca6aa2b.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-rock05.png"
+dest_files=[ "res://.import/generic-rpg-rock05.png-9fbd6cab173f9285eee453fa16bbef16.stex" ]
 
 [params]
 

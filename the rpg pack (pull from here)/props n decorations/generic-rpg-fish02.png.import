@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-fish02.png-cd5e7e56c831b3e0002b66b9d0efd524.stex"
+path="res://.import/generic-rpg-fish02.png-f0409c7c319a9d40d690c0da0f55d542.stex"
 
 [deps]
 
-source_file="res://rpg-pack/props n decorations/generic-rpg-fish02.png"
-dest_files=[ "res://.import/generic-rpg-fish02.png-cd5e7e56c831b3e0002b66b9d0efd524.stex" ]
+source_file="res://the rpg pack (pull from here)/props n decorations/generic-rpg-fish02.png"
+dest_files=[ "res://.import/generic-rpg-fish02.png-f0409c7c319a9d40d690c0da0f55d542.stex" ]
 
 [params]
 

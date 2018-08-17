@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gabe-idle-run.png-be655bb0a285b237b78c5f9374d09142.stex"
+path="res://.import/gabe-idle-run.png-13beb195dce551e930b1fbdb59c25dd0.stex"
 
 [deps]
 
-source_file="res://rpg-pack/chars/gabe/gabe-idle-run.png"
-dest_files=[ "res://.import/gabe-idle-run.png-be655bb0a285b237b78c5f9374d09142.stex" ]
+source_file="res://the rpg pack (pull from here)/chars/gabe/gabe-idle-run.png"
+dest_files=[ "res://.import/gabe-idle-run.png-13beb195dce551e930b1fbdb59c25dd0.stex" ]
 
 [params]
 

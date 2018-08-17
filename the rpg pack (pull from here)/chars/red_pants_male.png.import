@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/red_pants_male.png-749d39fc2fa5479f201703b5f955f300.stex"
+path="res://.import/red_pants_male.png-93720339a3626ab4a652a05b0fabf70b.stex"
 
 [deps]
 
-source_file="res://rpg-pack/chars/red_pants_male.png"
-dest_files=[ "res://.import/red_pants_male.png-749d39fc2fa5479f201703b5f955f300.stex" ]
+source_file="res://the rpg pack (pull from here)/chars/red_pants_male.png"
+dest_files=[ "res://.import/red_pants_male.png-93720339a3626ab4a652a05b0fabf70b.stex" ]
 
 [params]
 

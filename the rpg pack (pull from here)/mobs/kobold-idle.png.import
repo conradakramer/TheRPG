@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kobold-idle.png-15d92b00cdbede6896b8a484e9d268b3.stex"
+path="res://.import/kobold-idle.png-c014248aaa7fa941870403d1ca2ca151.stex"
 
 [deps]
 
-source_file="res://rpg-pack/mobs/kobold-idle.png"
-dest_files=[ "res://.import/kobold-idle.png-15d92b00cdbede6896b8a484e9d268b3.stex" ]
+source_file="res://the rpg pack (pull from here)/mobs/kobold-idle.png"
+dest_files=[ "res://.import/kobold-idle.png-c014248aaa7fa941870403d1ca2ca151.stex" ]
 
 [params]
 

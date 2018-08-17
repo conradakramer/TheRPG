@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/atlas.png-954731fa112fa5d2634523495c11ecf8.stex"
+path="res://.import/atlas.png-10538fee436c47623269dbf81ad41bd8.stex"
 
 [deps]
 
-source_file="res://rpg-pack/atlas.png"
-dest_files=[ "res://.import/atlas.png-954731fa112fa5d2634523495c11ecf8.stex" ]
+source_file="res://the rpg pack (pull from here)/atlas.png"
+dest_files=[ "res://.import/atlas.png-10538fee436c47623269dbf81ad41bd8.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slime-green.png-0b40413ed4e640bd83e4372cc0c491cf.stex"
+path="res://.import/slime-green.png-b440f7242da5b213efa2ab595dec8610.stex"
 
 [deps]
 
-source_file="res://rpg-pack/mobs/slime-green.png"
-dest_files=[ "res://.import/slime-green.png-0b40413ed4e640bd83e4372cc0c491cf.stex" ]
+source_file="res://the rpg pack (pull from here)/mobs/slime-green.png"
+dest_files=[ "res://.import/slime-green.png-b440f7242da5b213efa2ab595dec8610.stex" ]
 
 [params]
 

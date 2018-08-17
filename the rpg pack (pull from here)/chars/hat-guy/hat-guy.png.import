@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hat-guy.png-7a39bc5c5c0da1b44c33a0b8b6b331a5.stex"
+path="res://.import/hat-guy.png-2a6c6ca4ecf4e2ac76b3120c3d6e7e8a.stex"
 
 [deps]
 
-source_file="res://rpg-pack/chars/hat-guy/hat-guy.png"
-dest_files=[ "res://.import/hat-guy.png-7a39bc5c5c0da1b44c33a0b8b6b331a5.stex" ]
+source_file="res://the rpg pack (pull from here)/chars/hat-guy/hat-guy.png"
+dest_files=[ "res://.import/hat-guy.png-2a6c6ca4ecf4e2ac76b3120c3d6e7e8a.stex" ]
 
 [params]
 

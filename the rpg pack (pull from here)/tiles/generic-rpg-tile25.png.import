@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic-rpg-tile25.png-844caca9d5a818c7835e7c2162b2d9be.stex"
+path="res://.import/generic-rpg-tile25.png-ac17d6e4f9dcf4e28512f39a29dc285a.stex"
 
 [deps]
 
-source_file="res://rpg-pack/tiles/generic-rpg-tile25.png"
-dest_files=[ "res://.import/generic-rpg-tile25.png-844caca9d5a818c7835e7c2162b2d9be.stex" ]
+source_file="res://the rpg pack (pull from here)/tiles/generic-rpg-tile25.png"
+dest_files=[ "res://.import/generic-rpg-tile25.png-ac17d6e4f9dcf4e28512f39a29dc285a.stex" ]
 
 [params]
 

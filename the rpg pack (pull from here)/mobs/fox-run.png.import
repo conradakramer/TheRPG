@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/fox-run.png-1941d8c22253baef431727acbb601980.stex"
+path="res://.import/fox-run.png-697086a193cad6aac65e5d1eace95833.stex"
 
 [deps]
 
-source_file="res://rpg-pack/mobs/fox-run.png"
-dest_files=[ "res://.import/fox-run.png-1941d8c22253baef431727acbb601980.stex" ]
+source_file="res://the rpg pack (pull from here)/mobs/fox-run.png"
+dest_files=[ "res://.import/fox-run.png-697086a193cad6aac65e5d1eace95833.stex" ]
 
 [params]
 

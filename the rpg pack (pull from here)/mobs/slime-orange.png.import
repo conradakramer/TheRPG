@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/slime-orange.png-a178edeccc0f072e7e913789bedaf99c.stex"
+path="res://.import/slime-orange.png-762b802e7b9d4707e440539f26eb702e.stex"
 
 [deps]
 
-source_file="res://rpg-pack/mobs/slime-orange.png"
-dest_files=[ "res://.import/slime-orange.png-a178edeccc0f072e7e913789bedaf99c.stex" ]
+source_file="res://the rpg pack (pull from here)/mobs/slime-orange.png"
+dest_files=[ "res://.import/slime-orange.png-762b802e7b9d4707e440539f26eb702e.stex" ]
 
 [params]
 

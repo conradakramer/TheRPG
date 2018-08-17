@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/worm-run-idle.png-baad0e6e32424666fca965cbe0ff1258.stex"
+path="res://.import/worm-run-idle.png-8633d63a77c44386cc2252df6be159eb.stex"
 
 [deps]
 
-source_file="res://rpg-pack/mobs/worm-run-idle.png"
-dest_files=[ "res://.import/worm-run-idle.png-baad0e6e32424666fca965cbe0ff1258.stex" ]
+source_file="res://the rpg pack (pull from here)/mobs/worm-run-idle.png"
+dest_files=[ "res://.import/worm-run-idle.png-8633d63a77c44386cc2252df6be159eb.stex" ]
 
 [params]
 
